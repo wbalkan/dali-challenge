@@ -1,0 +1,23 @@
+
+.gear {
+    border-radius: 50%;
+    border-width: 1rem;
+
+    border-color: rgb(98, 124, 209);
+    border-style: dashed;
+    background: gray;
+
+    position: fixed;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    width: 4rem;
+    height: 4rem;
+
+    animation: spin 20s linear infinite;
+}
+
+
+@keyframes spin {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }

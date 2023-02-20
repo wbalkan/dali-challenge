@@ -1,0 +1,18 @@
+.column {
+    padding: 5rem;
+    border-width: 1rem;
+    border-color: rgb(162, 157, 126);
+    border-style: outset;
+    border-radius: 2rem;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(172, 163, 112);
+
+    font-size: x-large;
+}
+
+.column img {
+    border-radius: 3rem;
+    width: 6rem;
+    height: 6rem;
+}

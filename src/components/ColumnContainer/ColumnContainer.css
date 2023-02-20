@@ -1,0 +1,6 @@
+.column-container {
+    padding-top: 10%;
+    display: flex;
+    justify-content: space-between;
+    height: 40%;
+}
